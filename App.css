@@ -6,7 +6,7 @@
 }
 
 #two {
-  color: yellow;
+  color: pink;
   background-color: black;
   border: 2px, solid black;
   font-style: italic;
@@ -31,4 +31,18 @@
   background-color: black;
   border: 2px, solid black;
   font-style: italic;
+}
+
+.first {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border: 5px solid black;
+}
+
+.Second {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border: 2px solid black;
 }
